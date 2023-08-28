@@ -7,7 +7,7 @@ This project is use to help with the back end for an internet (online)retail com
 It will solve the problem of allowing the internet(online) retail company to compete in the own industry.
 ```
 
-## Installion:
+## Install:
 
 ```
 Type `npm init` in the terminal to get package.json.
