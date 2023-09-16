@@ -60,6 +60,10 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 The app can be tested by using the insomnia app to get, 
 create, update or delete categories, products or tags.
+
+https://drive.google.com/file/d/1QRgUDma_2m-snhjSX3YwF0_AQk0pdqOm/view
+
+https://drive.google.com/file/d/1i8AGzb3lf1uonJVD6ogX9HBkpbG5pGk6/view
 ```
 
 ## Questions

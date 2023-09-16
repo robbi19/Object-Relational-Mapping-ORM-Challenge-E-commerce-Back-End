@@ -8,7 +8,12 @@ router.get('/', (req, res) => {
   // be sure to include its associated Products
   Category.findAll({include: Product}).then(category => {
     res.json(category);
-  });
+  })
+  .catch(err => {
+    if (err) {
+      throw err;      
+    }
+  })
 });
 
 router.get('/:id', (req, res) => {
